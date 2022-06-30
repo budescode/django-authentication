@@ -1,10 +1,10 @@
-# django-rest-allauth
+<!-- # django-rest-allauth -->
 Basic django code for registration, login and reset password
 
 Quick start
 -----------
 1. Clone  Code:
-    git clone
+    git clone https://github.com/budescode/django-authentication.git
 
 2. Run Migrate:
     python3 manage.py migrate
