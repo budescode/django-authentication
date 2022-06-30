@@ -15,10 +15,10 @@ Quick start
 
 ## Url Endpoints
 
-* [accountapi/createuser/]
-* [accountapi/login/]
-* [accountapi/reset-password-code/]
-* [accountapi/reset-password/]
+* accountapi/createuser/
+* accountapi/login/
+* accountapi/reset-password-code/
+* accountapi/reset-password/
 
 
 
