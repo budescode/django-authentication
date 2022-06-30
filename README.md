@@ -1,6 +1,5 @@
 <!-- # django-rest-allauth -->
-Basic django code for registration, login and reset password
-
+Djagno code for authentication
 Quick start
 -----------
 1. Clone  Code:
