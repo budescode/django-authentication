@@ -5,10 +5,13 @@ Quick start
 1. Clone  Code:
     git clone https://github.com/budescode/django-authentication.git
 
-2. Run Migrate:
+2. Install Packages:
+    pip install -r requirements.txt
+
+3. Run Migrate:
     python3 manage.py migrate
 
-3. Run Server:
+4. Run Server:
     python3 manage.py runserver
 
 
